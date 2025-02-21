@@ -1,0 +1,32 @@
+# Configuration for Cog ⚙️
+# Reference: https://github.com/replicate/cog/blob/main/docs/yaml.md
+
+build:
+  # set to true if your model requires a GPU
+  gpu: true
+
+  # a list of ubuntu apt packages to install
+  system_packages:
+    - "ffmpeg"
+    - "libmagic1"
+    - "cudnn9-cuda-12"
+    # - "libgl1-mesa-glx"
+    # - "libglib2.0-0"
+
+  # python version in the form '3.8' or '3.8.12'
+  python_version: "3.10"
+
+  python_requirements: requirements.txt
+
+  # commands run after the environment is setup
+  run:
+    - "echo env is ready!"
+    # - apt-get update && apt-get install -y git
+    # - pip install ctranslate2>=3.15
+    # - ct2-transformers-converter --model KBLab/kb-whisper-large \
+    #   --output_dir /src/kb-whisper-large-ct2 \
+    #   --copy_files tokenizer.json --force
+
+
+# predict.py defines how predictions are run on your model
+predict: "predict.py:Predictor"
