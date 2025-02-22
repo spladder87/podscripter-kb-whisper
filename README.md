@@ -52,7 +52,6 @@ KB-Whisper är en toppmodern svensk taligenkänningsmodell utvecklad av Kungliga
 ![Podcast Episodes Interface](./images/podcast-episodes.png)
 Hantera och bläddra bland podcastavsnitt med enkel åtkomst till transkribering. Stöd för:
 - Automatisk episodupptäckning
-- Batchtranskribering
 - Nedladdningsalternativ
 - Realtidsstatusuppdateringar
 
@@ -208,7 +207,6 @@ KB-Whisper is a state-of-the-art Swedish speech recognition model developed by t
 ![Podcast Episodes Interface](./images/podcast-episodes.png)
 Manage and browse podcast episodes with easy access to transcription. Support for:
 - Automatic episode discovery
-- Batch transcription
 - Download options
 - Real-time status updates
 
