@@ -19,7 +19,7 @@ Detta repository innehåller Cog-konfigurationen för att distribuera [KBLabs KB
 - ⚡ **Snabbt & Exakt** - Drivs av KB-Whisper, den mest exakta svenska taligenkänningsmodellen
 - 💰 **Överkomliga Priser** - Från endast 0,42 kr per minut
 - 🎯 **Specialanpassad** - Optimerad för svenskt innehåll
-- 🔒 **Inget Konto Krävs** - Snabb transkribering tillgänglig direkt
+- 🔒 **Inget Konto Krävs** - Snabb transkribering tillgänglig direkt (kommande)
 - 💼 **Företagsfunktioner** - Värdepaket och extrafunktioner för regelbundna användare
 
 ### Value Packages
@@ -174,7 +174,7 @@ This repository contains the Cog configuration for deploying [KBLab's KB-Whisper
 - ⚡ **Fast & Accurate** - Powered by KB-Whisper, the most accurate Swedish speech recognition model
 - 💰 **Affordable Pricing** - Starting at just $0.042 per minute
 - 🎯 **Purpose-Built** - Optimized for Swedish content
-- 🔒 **No Account Required** - Quick transcription service available instantly
+- 🔒 **No Account Required** - Quick transcription service available instantly (coming soon)
 - 💼 **Business Features** - Value packages and additional features for regular users
 
 ### Value Packages
