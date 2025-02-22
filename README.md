@@ -46,6 +46,33 @@ KB-Whisper är en toppmodern svensk taligenkänningsmodell utvecklad av Kungliga
 - Licens: Apache 2.0
 - Utvecklad av: Kungliga biblioteket / KBLab
 
+## Funktioner och Gränssnitt
+
+### 🎙️ Podcast-hantering
+![Podcast Episodes Interface](./images/podcast-episodes.png)
+Hantera och bläddra bland podcastavsnitt med enkel åtkomst till transkribering. Stöd för:
+- Automatisk episodupptäckning
+- Batchtranskribering
+- Nedladdningsalternativ
+- Realtidsstatusuppdateringar
+
+### 📝 Transkriptionsöversikt
+![Transcriptions Dashboard](./images/transcriptions-list.png)
+En kraftfull översikt över alla transkriptioner med:
+- Filtrera efter datum och status
+- Sökfunktionalitet
+- Snabb åtkomst till editor
+- Statusindikator för transkriptioner
+
+### ✍️ Avancerad Diariseringseditor
+![Diarization Editor](./images/transcription-editor.png)
+State-of-the-art talaridentifiering och redigering:
+- Automatisk talaridentifiering
+- Färgkodade talare för enkel navigering
+- Vågformsvisualisering
+- Tidsstämplad text
+- Realtidsredigering
+
 ## Användning på Replicate
 
 Testa KB-Whisper på Replicate: [spladder87/kblab-whisper-diarization](https://replicate.com/spladder87/kblab-whisper-diarization)
@@ -174,6 +201,33 @@ KB-Whisper is a state-of-the-art Swedish speech recognition model developed by t
 - Training Data: Over 50,000 hours of Swedish audio
 - License: Apache 2.0
 - Developed by: National Library of Sweden / KBLab
+
+## Features and Interface
+
+### 🎙️ Podcast Management
+![Podcast Episodes Interface](./images/podcast-episodes.png)
+Manage and browse podcast episodes with easy access to transcription. Support for:
+- Automatic episode discovery
+- Batch transcription
+- Download options
+- Real-time status updates
+
+### 📝 Transcriptions Overview
+![Transcriptions Dashboard](./images/transcriptions-list.png)
+A powerful overview of all transcriptions with:
+- Filter by date and status
+- Search functionality
+- Quick access to editor
+- Transcription status indicator
+
+### ✍️ Advanced Diarization Editor
+![Diarization Editor](./images/transcription-editor.png)
+State-of-the-art speaker identification and editing:
+- Automatic speaker detection
+- Color-coded speakers for easy navigation
+- Waveform visualization
+- Timestamped text
+- Real-time editing
 
 ## Usage on Replicate
 
